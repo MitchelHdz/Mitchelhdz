@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastián Mitchel</h1>
-<h3 align="center">A passionate software engineer from Mexico City, most of my experience is bases on fullstack development but I also love to be part of product processes, marketing and ux/ui</h3>
+<h3 align="center">A passionate software engineer from Mexico City, most of my experience is based on fullstack development but I also love to be part of product processes, marketing and ux/ui</h3>
 
 - 🔭 I’m currently working at [Ben & Frank](benandfrank.com)
 
