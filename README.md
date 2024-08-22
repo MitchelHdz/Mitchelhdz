@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Ben & Frank](benandfrank.com)
 
-- 🌱 I’m currently learning **about Design Systems, Product and Flutter**
+- 🌱 I’m currently learning **about Design Systems, Product Design and Flutter**
 
 - 👯 I’m looking to collaborate on **any project you think I can be helpful**
 
