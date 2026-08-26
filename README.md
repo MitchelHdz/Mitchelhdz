@@ -46,12 +46,5 @@ I still enjoy building side projects, prototyping interfaces and staying close t
 
 ### Reach out
 - [LinkedIn](https://linkedin.com/in/mitchelhdz)
-- **sebastian.snhn14@gmail.com**
-- [mitchelhdz.com](https://mitchelhdz.com)
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mitchelhdz&show_icons=true&locale=en&layout=compact"
-    alt="mitchelhdz"
-  />
-</p>
+- **contacto@holasebastian.com**
+- [holasebastian.com](https://holasebastian.com)
